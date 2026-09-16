@@ -10,7 +10,7 @@ class GraphSearchVisualizer:
         self.root.geometry("1100x700")
         self.root.configure(bg="#eef2f7")
 
-        # -----------------------------
+        # ----------------------------
         # Graph
         # -----------------------------
         self.graph = {
