@@ -3,7 +3,7 @@ from tkinter import messagebox
 import time
 
 
-# -----------------------------
+# ----------------------------
 # Greedy Best-First Search Demo
 # -----------------------------
 
